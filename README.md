@@ -42,9 +42,11 @@ PDroid2.0 is a Manager Application for the well known **PDroid2.0 Framework (rec
 For install PDroid2.0 on your Stock ROM you have to follow these steps:
 
 1. Download the right patch (install.zip, deinstall.zip) for your device. Look at *'Which branch should I use?'* if you don't know which files you have to download.
-2. Copy the *install.zip* and *deinstall.zip* to your internal sdCard
-3. Boot in recovery menu and flash the *install.zip* (or use mobile odin to flash the *install.zip*), then reboot
-4. Have fun!
+2. Download the **deodexed** version of your Stock ROM (only for N7100) from [XDA](http://forum.xda-developers.com/showthread.php?t=1915386)
+3. Flash the **deodexed** Stock ROM via Odin (No Custom Binary Counter increase!)
+3. Copy the *install.zip* and *deinstall.zip* to your internal sdCard
+4. Boot in recovery menu and flash the *install.zip* (or use mobile odin to flash the *install.zip*), then reboot
+5. Have fun!
 
 If something went wrong during the installation process or you want to deinstall PDroid2.0 you have to follow these steps:
 
